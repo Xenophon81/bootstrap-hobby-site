@@ -1,0 +1,10 @@
+body {
+  background-color: pink;
+  padding: 1rem;
+}
+
+.container,
+.container-fluid {
+  border: 1px solid red;
+}
+/*# sourceMappingURL=style.css.map */
